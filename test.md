@@ -1,10 +1,10 @@
 # Good Commit Messages
 
 ## Hello, world
-  * Item 1
-  * Item 2
-  * Item 3
-  * Item 4
+  * Item A
+  * Item B
+  * Item C
+  * Item D
 
 ## Moar Stuff
 The cat is white
